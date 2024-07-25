@@ -11,7 +11,11 @@
                 {
                     "name": "Installing Python", 
                     "id": "installing-python"
-                }
+                }, 
+                {
+                    "name": "Doing Stuff", 
+                    "id": "doing-stuff"
+                } 
             ]
         }
     ]
