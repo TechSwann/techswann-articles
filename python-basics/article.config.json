@@ -1,4 +1,7 @@
 {
+    "name": "Python Basics", 
+    "id": "python-basics",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
     "sections": [
         {
             "name": "Getting started 1", 

@@ -1,9 +1,5 @@
 {
     "articles": [
-        {
-            "name": "Python Basics", 
-            "id": "python-basics",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
-        }
+        "python-basics"
     ]
 }
