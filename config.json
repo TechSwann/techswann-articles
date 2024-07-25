@@ -1,0 +1,40 @@
+{
+    "articles": [
+        {
+            "name": "Python Basics", 
+            "id": "python-basics",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+        
+            "pageCategories": [
+                {
+                    "name": "Getting started", 
+                    "id": "getting-started",
+                    "pages": [
+                        {
+                            "name": "Installing Python 2", 
+                            "id": "installing-python-2"
+                        }, 
+                        {
+                            "name": "Installing Python 3", 
+                            "id": "installing-python-3"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Getting started 2", 
+                    "id": "getting-started-2",
+                    "pages": [
+                        {
+                            "name": "Installing Python 2", 
+                            "id": "installing-python-2"
+                        }, 
+                        {
+                            "name": "Installing Python 3", 
+                            "id": "installing-python-3"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
