@@ -1,0 +1,34 @@
+{
+    "sections": [
+        {
+            "name": "Getting started 1", 
+            "id": "getting-started-1", 
+
+            "pages": [
+                {
+                    "name": "Installing Python 2", 
+                    "id": "installing-python-2"
+                }, 
+                {
+                    "name": "Installing Python 3", 
+                    "id": "installing-python-3"
+                }
+            ]
+        }, 
+        {
+            "name": "Getting started 2", 
+            "id": "getting-started-2", 
+
+            "pages": [
+                {
+                    "name": "Installing Python 2", 
+                    "id": "installing-python-2"
+                }, 
+                {
+                    "name": "Installing Python 3", 
+                    "id": "installing-python-3"
+                }
+            ]
+        }
+    ]
+}
