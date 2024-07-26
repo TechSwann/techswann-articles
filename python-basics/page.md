@@ -1,4 +1,4 @@
-<!--head--> # An h1 headerr
+<!--@head--> # An h1 headerr
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
@@ -20,7 +20,7 @@ Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
 in chapters 12--14"). Three dots ... will be converted to an ellipsis.
 Unicode is supported. ☺
 
-<!--sub--> ## a header
+<!--@sub--> ## a header
 
 Here's a numbered list:
 
@@ -28,7 +28,7 @@ Here's a numbered list:
  2. second item
  3. third item
 
-<!--sub--> ### a header 3
+<!--@sub--> ### a header 3
 
 Note again how the actual text starts at 4 columns in (4 characters
 from the left side). Here's a code sample:
