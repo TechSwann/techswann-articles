@@ -1,0 +1,16 @@
+{
+    "name": "Python Basics", 
+    "description": "Learn Python from the beginning if you're new to coding! This course will help you get started with Python funadamentals.", 
+    "readingTime": "4 min",
+    "difficulty": 0,
+    "authors": [
+        {
+            "name": "Shaurya Kumar", 
+            "image": "/authors/shaurya-kumar.png"
+        }, 
+        {
+            "name": "Keshav Shah", 
+            "image": "/authors/keshav-shah.png"
+        }
+    ]
+}
