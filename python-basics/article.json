@@ -1,5 +1,7 @@
 {
-    "name": "Python Basics", 
+    "title": "Python Basics", 
+    "banner": "/banner.png", 
+    "thumbnail": "/thumbnail.png",
     "description": "Learn Python from the beginning if you're new to coding! This course will help you get started with Python funadamentals.", 
     "readingTime": "4 min",
     "difficulty": 0,
