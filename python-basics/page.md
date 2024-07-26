@@ -1,5 +1,4 @@
-An h1 header
-============
+# An h1 header
 
 Paragraphs are separated by a blank line.
 
@@ -25,8 +24,7 @@ Unicode is supported. ☺
 
 
 
-An h2 header
-------------
+## An h2 header
 
 Here's a numbered list:
 
@@ -63,7 +61,7 @@ for i in range(10):
 
 
 
-### An h3 header ###
+### An h3 header
 
 Now a nested list:
 
@@ -145,13 +143,3 @@ Here's a "line block":
 | Line tree
 
 and images can be specified like so:
-
-![example image](example-image.jpg "An exemplary image")
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-
-And note that you can backslash-escape any punctuation characters
-which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
